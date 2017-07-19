@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "850946679308",
+    "firebase_url": "https://dealsaster-398e9.firebaseio.com",
+    "project_id": "dealsaster-398e9",
+    "storage_bucket": "dealsaster-398e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850946679308:android:8ad8a11980c3ef9e",
+        "android_client_info": {
+          "package_name": "io.github.dewunmi.dealsaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850946679308-ibtkkcks26fs6bftvmftrukgvg60b2ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.dewunmi.dealsaster",
+            "certificate_hash": "5a7bb97c714379bc0646d1d132e95bb8159e3c74"
+          }
+        },
+        {
+          "client_id": "850946679308-vn1fs2jq5aennlr7i8m8ngq3249ib3ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD880BpZXzUSfNQMrEGKcwQOP25c-68nPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850946679308-vn1fs2jq5aennlr7i8m8ngq3249ib3ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
